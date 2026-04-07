@@ -79,6 +79,32 @@
         "./collection/languages/javascript",
         "./collection/languages/typescript"
       ]
+    },
+    {
+      "name": "security",
+      "source": "./",
+      "description": "Security-driven software development principles covering general, frontend, backend, and mobile vectors.",
+      "version": "0.1.0",
+      "repository": "https://github.com/MayR-Labs/skills.git",
+      "license": "MIT",
+      "author": {
+        "name": "Aghogho Meyoron",
+        "email": "youngmayor.dev@gmail.com"
+      },
+      "keywords": [
+        "security",
+        "validation",
+        "authorization",
+        "sanitization",
+        "zero-trust"
+      ],
+      "category": "security",
+      "skills": [
+        "./collection/security/general",
+        "./collection/security/backend",
+        "./collection/security/frontend",
+        "./collection/security/mobile"
+      ]
     }
   ]
 }

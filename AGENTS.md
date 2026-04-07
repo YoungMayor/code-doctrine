@@ -26,7 +26,7 @@ Do not rush to generate. Think first.
 
 ### Step 1 — Understand Intent
 
-Ask questions to determine:
+Ask questions to help you understand my preferences some example are below but ask as much question as needed and provide possible answer choices:
 
 - What problem does this skill solve?
 - Who is the skill for? (AI, devs, beginners, experts)
@@ -64,6 +64,10 @@ You MUST structure the skill as:
 ---
 
 ### Step 4 — Generate SKILL.md
+
+Generate a kick ass SKILL.md with examples and references when applicable.
+
+Then suggest more SKILLS we could write.
 
 ---
 
