@@ -1,5 +1,5 @@
 ---
-name: mayrlabs-linters
+name: mayrlabs-tool-linters
 description:
   Enforces the zero-warning strategy for static analysis tools. Warnings are
   treated as Errors, and type assertions are heavily penalized.

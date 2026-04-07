@@ -1,5 +1,5 @@
 ---
-name: mayrlabs-php
+name: mayrlabs-language-php
 description:
   Senior-level PHP standards enforcing strict typing, modern PHP 8+ features,
   and clean object-oriented code patterns.

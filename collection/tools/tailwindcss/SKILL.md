@@ -1,5 +1,5 @@
 ---
-name: mayrlabs-tailwindcss
+name: mayrlabs-tool-tailwindcss
 description:
   TailwindCSS conventions enforcing semantic configuration, banning arbitrary
   magic values `[]`, and promoting generic UI abstraction over class-soup.

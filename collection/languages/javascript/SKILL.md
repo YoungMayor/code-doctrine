@@ -1,5 +1,5 @@
 ---
-name: mayrlabs-javascript
+name: mayrlabs-language-javascript
 description:
   Enforces senior-level, strict JavaScript conventions. This skill must be used
   whenever writing, reviewing, or refactoring JavaScript code to ensure robust,

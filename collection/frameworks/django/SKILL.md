@@ -1,5 +1,5 @@
 ---
-name: mayrlabs-django
+name: mayrlabs-framework-django
 description:
   Django rules focused on class-based views, clean ORM usage, and decoupling fat
   models where appropriate.

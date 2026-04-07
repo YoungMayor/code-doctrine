@@ -1,5 +1,5 @@
 ---
-name: mayrlabs-flask
+name: mayrlabs-framework-flask
 description:
   Flask rules enforcing Application Factories, Blueprints, and strictly typed
   JSON contracts using Pydantic/Marshmallow.

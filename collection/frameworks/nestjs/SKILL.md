@@ -1,5 +1,5 @@
 ---
-name: mayrlabs-nestjs
+name: mayrlabs-framework-nestjs
 description:
   NestJS standards prioritizing Dependency Injection, strict module
   encapsulation, custom guards, and precise DTO typing.

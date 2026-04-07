@@ -1,5 +1,5 @@
 ---
-name: mayrlabs-typescript
+name: mayrlabs-language-typescript
 description:
   Dictates strict TypeScript standards. Must be used on all TS codebases to
   enforce rigorous typing, structural layers, and avoid 'any'.

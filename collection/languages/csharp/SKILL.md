@@ -1,5 +1,5 @@
 ---
-name: mayrlabs-csharp
+name: mayrlabs-language-csharp
 description:
   Enforces .NET modern features, strict nullability, and interface-driven Clean
   Architecture for enterprise code.

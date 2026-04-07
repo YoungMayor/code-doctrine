@@ -1,5 +1,5 @@
 ---
-name: mayrlabs-flutter
+name: mayrlabs-framework-flutter
 description:
   Hardline rules for Flutter UI generating, prioritizing stateless over stateful
   widgets, BLOC/Provider for state, and separated service locators.

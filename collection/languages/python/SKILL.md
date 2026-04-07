@@ -1,5 +1,5 @@
 ---
-name: mayrlabs-python
+name: mayrlabs-language-python
 description:
   Python standards emphasizing PEP-8 strictness, explicit type hinting, and
   optimized memory management.

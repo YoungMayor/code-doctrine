@@ -1,5 +1,5 @@
 ---
-name: mayrlabs-nextjs
+name: mayrlabs-framework-nextjs
 description:
   Strict Next.js conventions governing RSC boundaries, server actions, route
   architectures, and avoiding invalid hydration traps.

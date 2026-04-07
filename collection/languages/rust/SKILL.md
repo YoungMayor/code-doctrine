@@ -1,5 +1,5 @@
 ---
-name: mayrlabs-rust
+name: mayrlabs-language-rust
 description:
   Hardline rules for Rust focusing on memory lifecycle, enforcing idiomatic
   traits, and minimizing unsafe blocks.

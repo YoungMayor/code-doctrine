@@ -1,5 +1,5 @@
 ---
-name: mayrlabs-nuxtjs
+name: mayrlabs-framework-nuxtjs
 description:
   Nuxt 3 strict conventions prioritizing auto-imports, Server API route
   abstraction, and modular directory structures.

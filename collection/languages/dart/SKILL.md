@@ -1,5 +1,5 @@
 ---
-name: mayrlabs-dart
+name: mayrlabs-language-dart
 description:
   Strict Dart and Flutter code standards ensuring strong typing, immutability,
   and state management isolation.

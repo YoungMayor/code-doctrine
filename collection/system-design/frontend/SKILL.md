@@ -1,5 +1,5 @@
 ---
-name: mayrlabs-frontend-design
+name: mayrlabs-system-design-frontend
 description:
   Architecture standards for separating UI and state, managing atomic
   components, Semantic CSS tokens, and unifying frontend boundaries.

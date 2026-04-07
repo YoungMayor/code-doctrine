@@ -1,5 +1,5 @@
 ---
-name: mayrlabs-api-design
+name: mayrlabs-system-design-api
 description:
   Standardizes RESTful boundaries, GraphQL schemas, JSON:API payloads, routing
   principles, and robust versioning patterns for MayR Labs projects.

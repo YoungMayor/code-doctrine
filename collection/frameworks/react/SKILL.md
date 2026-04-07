@@ -1,5 +1,5 @@
 ---
-name: mayrlabs-react
+name: mayrlabs-framework-react
 description:
   React standard enforcing functional components, custom hooks, strict
   separation of state from UI, and memoization.

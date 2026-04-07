@@ -1,5 +1,5 @@
 ---
-name: mayrlabs-laravel
+name: mayrlabs-framework-laravel
 description:
   Strict rules for Laravel enforcing Form Requests, thin controllers,
   externalized actions/services, and standard Eloquent relationships.

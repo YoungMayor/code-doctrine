@@ -1,5 +1,5 @@
 ---
-name: mayrlabs-formatters
+name: mayrlabs-tool-formatters
 description:
   Strictly enforces auto-formatting patterns. Dictates the use of
   high-performance tooling like Biome over legacy formatters, ensuring CI

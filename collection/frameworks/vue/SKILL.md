@@ -1,5 +1,5 @@
 ---
-name: mayrlabs-vue
+name: mayrlabs-framework-vue
 description:
   Vue 3 standards targeting strict Composition API, script setup syntax, and
   reactive state discipline.

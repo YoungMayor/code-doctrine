@@ -1,5 +1,5 @@
 ---
-name: mayrlabs-testing
+name: mayrlabs-tool-testing
 description:
   Standardizes TDD philosophy, enforcing unit test coverage over business logic,
   mocking boundaries, and CI integration.

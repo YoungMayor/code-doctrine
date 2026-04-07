@@ -1,5 +1,5 @@
 ---
-name: mayrlabs-go
+name: mayrlabs-language-go
 description:
   Strictly enforces idiomatic Golang standards, including early returns, concise
   error handling, robust concurrency practices, and explicit interfaces over
