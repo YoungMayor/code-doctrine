@@ -4,6 +4,7 @@
   "description": "A comprehensive, modular collection of senior-level agent skills for scaffolding code and enforcing architectural standards.",
   "scripts": {
     "format": "prettier --write .",
+    "format:check": "prettier --check .",
     "lint": "eslint .",
     "prepare": "husky"
   },
