@@ -23,9 +23,7 @@
       "keywords": [
         "base",
         "standards",
-        "architecture",
-        "anti-patterns",
-        "clean-code"
+        "architecture"
       ],
       "category": "fundamentals",
       "skills": [
@@ -35,7 +33,7 @@
     {
       "name": "concepts",
       "source": "./",
-      "description": "High-level behavioral concepts and prompting styles for AI agents, including eco-mode for token efficiency.",
+      "description": "High-level behavioral concepts and prompting styles for AI agents.",
       "version": "0.1.0",
       "repository": "https://github.com/MayR-Labs/skills.git",
       "license": "MIT",
@@ -43,23 +41,16 @@
         "name": "Aghogho Meyoron",
         "email": "youngmayor.dev@gmail.com"
       },
-      "keywords": [
-        "concepts",
-        "eco-mode",
-        "efficiency",
-        "prompting",
-        "behavior"
-      ],
       "category": "concepts",
       "skills": [
-        "./collection/concepts/eco-mode",
+        "./collection/concepts/mayrlabs-eco-mode",
         "./collection/concepts/seo"
       ]
     },
     {
       "name": "languages",
       "source": "./",
-      "description": "Strict, senior-level code standards and architectural conventions for various programming languages (JavaScript, TypeScript, PHP, etc.).",
+      "description": "Senior-level code standards and architectural conventions for programming languages.",
       "version": "0.1.0",
       "repository": "https://github.com/MayR-Labs/skills.git",
       "license": "MIT",
@@ -67,24 +58,21 @@
         "name": "Aghogho Meyoron",
         "email": "youngmayor.dev@gmail.com"
       },
-      "keywords": [
-        "languages",
-        "javascript",
-        "typescript",
-        "architecture",
-        "standards"
-      ],
       "category": "languages",
       "skills": [
         "./collection/languages/javascript",
+        "./collection/languages/typescript",
         "./collection/languages/php",
-        "./collection/languages/typescript"
+        "./collection/languages/go",
+        "./collection/languages/python",
+        "./collection/languages/dart",
+        "./collection/languages/rust",
+        "./collection/languages/csharp"
       ]
     },
     {
       "name": "security",
       "source": "./",
-      "description": "Security-driven software development principles covering general, frontend, backend, and mobile vectors.",
       "version": "0.1.0",
       "repository": "https://github.com/MayR-Labs/skills.git",
       "license": "MIT",
@@ -92,13 +80,6 @@
         "name": "Aghogho Meyoron",
         "email": "youngmayor.dev@gmail.com"
       },
-      "keywords": [
-        "security",
-        "validation",
-        "authorization",
-        "sanitization",
-        "zero-trust"
-      ],
       "category": "security",
       "skills": [
         "./collection/security/general",
@@ -106,6 +87,98 @@
         "./collection/security/frontend",
         "./collection/security/mobile"
       ]
+    },
+    {
+      "name": "copywriting",
+      "source": "./",
+      "version": "0.1.0",
+      "repository": "https://github.com/MayR-Labs/skills.git",
+      "license": "MIT",
+      "author": {
+        "name": "Aghogho Meyoron",
+        "email": "youngmayor.dev@gmail.com"
+      },
+      "category": "copywriting",
+      "skills": [
+        "./collection/copywriting/general",
+        "./collection/copywriting/engineering",
+        "./collection/copywriting/legal",
+        "./collection/copywriting/product",
+        "./collection/copywriting/marketing",
+        "./collection/copywriting/content"
+      ]
+    },
+    {
+      "name": "frameworks",
+      "source": "./",
+      "version": "0.1.0",
+      "repository": "https://github.com/MayR-Labs/skills.git",
+      "license": "MIT",
+      "author": {
+        "name": "Aghogho Meyoron",
+        "email": "youngmayor.dev@gmail.com"
+      },
+      "category": "frameworks",
+      "skills": [
+        "./collection/frameworks/react",
+        "./collection/frameworks/nextjs",
+        "./collection/frameworks/laravel",
+        "./collection/frameworks/django",
+        "./collection/frameworks/flutter",
+        "./collection/frameworks/flask",
+        "./collection/frameworks/nestjs",
+        "./collection/frameworks/nuxtjs",
+        "./collection/frameworks/vue"
+      ]
+    },
+    {
+      "name": "tools",
+      "source": "./",
+      "version": "0.1.0",
+      "repository": "https://github.com/MayR-Labs/skills.git",
+      "license": "MIT",
+      "author": {
+        "name": "Aghogho Meyoron",
+        "email": "youngmayor.dev@gmail.com"
+      },
+      "category": "tools",
+      "skills": [
+        "./collection/tools/tailwindcss",
+        "./collection/tools/formatters",
+        "./collection/tools/linters",
+        "./collection/tools/testing"
+      ]
+    },
+    {
+      "name": "recipes",
+      "source": "./",
+      "version": "0.1.0",
+      "repository": "https://github.com/MayR-Labs/skills.git",
+      "license": "MIT",
+      "author": {
+        "name": "Aghogho Meyoron",
+        "email": "youngmayor.dev@gmail.com"
+      },
+      "category": "recipes",
+      "skills": [
+        "./collection/recipes/api-design",
+        "./collection/recipes/frontend-design",
+        "./collection/recipes/uix",
+        "./collection/recipes/error-handling"
+      ]
+    },
+    {
+      "name": "cloud",
+      "source": "./",
+      "version": "0.1.0",
+      "repository": "https://github.com/MayR-Labs/skills.git",
+      "license": "MIT",
+      "author": {
+        "name": "Aghogho Meyoron",
+        "email": "youngmayor.dev@gmail.com"
+      },
+      "category": "cloud",
+      "skills": []
     }
   ]
 }

@@ -12,29 +12,36 @@ This document outlines the structured phases for delivering the comprehensive `@
 
 - [x] `javascript`
 - [x] `typescript`
-- [ ] `php`
-- [ ] `go`
-- [ ] `dart`
-- [ ] `python`
-- [ ] `rust`
-- [ ] `csharp`
+- [x] `php`
+- [x] `go`
+- [x] `dart`
+- [x] `python`
+- [x] `rust`
+- [x] `csharp`
 
 ## Phase 3: Frameworks
 
-- [ ] `react`
-- [ ] `nextjs`
-- [ ] `laravel`
-- [ ] `flutter`
-- [ ] `django`
-- [ ] `flask`
-- [ ] `nuxtjs`
-- [ ] `nestjs`
-- [ ] `vue`
+- [x] `react`
+- [x] `nextjs`
+- [x] `laravel`
+- [x] `flutter`
+- [x] `django`
+- [x] `flask`
+- [x] `nuxtjs`
+- [x] `nestjs`
+- [x] `vue`
+
+## Phase 4: Tools
+
+- [x] `TailwindCSS`
+- [x] `Formatters` (Biome, OxFmt, Prettier)
+- [x] `Linters` (Biome, ESLint, Stylelint)
+- [x] `Testing` (Vitest, Jest, PHPUnit, Pytest)
 
 ## Phase 4: Recipes
 
-- [ ] `api-design` (RESTful, GraphQL, JSON:API standards)
-- [ ] `authentication` (JWT, OAuth, secure identity, testing flows)
-- [ ] `error-handling` (Global handlers, custom exceptions, UX)
-- [ ] `frontend-design` (Styling rules, semantic tokens, components)
-- [ ] `testing`
+- [x] `design-system/api` (RESTful, GraphQL, JSON:API standards)
+- [x] `design-system/frontend` (Styling rules, semantic tokens, components)
+- [x] `design-system/uix`
+- [x] `error-handling` (Global handlers, custom exceptions, UX)
+- [x] `testing`

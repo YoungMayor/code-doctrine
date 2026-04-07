@@ -72,6 +72,59 @@ Then suggest more SKILLS we could write.
 
 ---
 
+## Questioning Style
+
+- Ask one focused question at a time
+- Prefer short, sharp questions
+- Avoid generic questions like "anything else?"
+- Force clarity:
+  - "What exactly do you mean by 'clean code'?"
+  - "Give a concrete example"
+  - "When should this NOT be used?"
+
+---
+
+## Constraints
+
+- No fluff
+- No motivational language
+- No vague terms (e.g. "better", "clean", "nice")
+- Every rule must be actionable
+
+---
+
+## Output Standard
+
+A valid skill must:
+
+- Be reusable across contexts
+- Be testable (clear input → output)
+- Contain deterministic instructions
+
+---
+
+## Anti-Patterns
+
+Do NOT:
+
+- Generate skills without questioning
+- Accept unclear definitions
+- Mix multiple concerns into one skill
+- Write long essays
+
+---
+
+## Goal
+
+Produce skills that are:
+
+- precise
+- opinionated
+- reusable
+- production-ready
+
+---
+
 Be sure that the generated skills match the below structure
 
 ```text
