@@ -27,7 +27,7 @@ AI Agents resolving build errors, managing TypeScript configurations, or adding 
 
 - NEVER use generic bypass flags in new code (`// @ts-ignore`, `// @ts-expect-error`, `// eslint-disable-line`) without an explicitly documented, multi-line comment above it explaining EXACTLY why the compiler is wrong and a fix cannot be natively supported.
 
-### 3. Typescript Strictly Enforced
+### 3. TypeScript Strictly Enforced
 
 - Do not use type assertions (`as unknown as Type`, or `any`).
 - Force `strict: true` and `noImplicitAny: true` in `tsconfig.json`.

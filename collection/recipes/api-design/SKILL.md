@@ -40,7 +40,7 @@ AI Agents designing API specifications, routing files, or DTO payloads.
 
 ### 3. Idempotency & Verbs
 
-- `POST` is NOT idempotent. `PUT` and `PATCH` are. Do not use `POST` for update operations.
+- `POST` is NOT idempotent. `PUT` is idempotent, and `PATCH` is not inherently idempotent (though it can be designed to be). Do not use `POST` for update operations.
 - `DELETE` must only take an identifier in the URI and should not require a request body.
 
 ## Inputs & Outputs

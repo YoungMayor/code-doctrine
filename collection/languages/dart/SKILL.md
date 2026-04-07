@@ -21,7 +21,7 @@ AI Agents working on Dart utility code or Flutter mobile architectures.
 
 ### 1. Sound Null Safety
 
-- Never use the bash operator `!` blindly to force unwrap generic null types. Handle nulls explicitly via `??` or guard clauses.
+- Never use the bang operator / null-assertion operator `!` blindly to force unwrap generic null types. Handle nulls explicitly via `??` or guard clauses.
 
 ### 2. Immutability
 

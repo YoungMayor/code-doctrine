@@ -28,7 +28,7 @@ AI Agents scaffolding modules, APIs, or internal tools using Golang.
 
 ### 2. Concurrency Primitives
 
-- **Do not share memory by communicating; communicate by sharing memory**: Utilize channels (`chan`) to pass data safely between goroutines.
+- **Don't communicate by sharing memory; share memory by communicating**: Utilize channels (`chan`) to pass data safely between goroutines.
 - **Always Wait**: Never fire a detached goroutine that involves network/DB IO without a sync mechanism (`sync.WaitGroup` or `context.Context`) to prevent goroutine leaks.
 
 ### 3. Idiomatic Interfaces
