@@ -3,8 +3,9 @@
   "version": "0.1.0",
   "description": "A comprehensive, modular collection of senior-level agent skills for scaffolding code and enforcing architectural standards.",
   "scripts": {
-    "format": "biome format --write .",
-    "lint": "biome check ."
+    "format": "prettier --write .",
+    "lint": "eslint .",
+    "prepare": "husky"
   },
   "keywords": [
     "skills",
@@ -29,6 +30,13 @@
   },
   "license": "MIT",
   "devDependencies": {
-    "@biomejs/biome": "2.4.10"
+    "@eslint/js": "^10.0.1",
+    "@eslint/markdown": "^8.0.1",
+    "eslint": "^10.2.0",
+    "eslint-config-prettier": "^10.1.8",
+    "eslint-plugin-prettier": "^5.5.5",
+    "husky": "^9.1.7",
+    "lint-staged": "^16.4.0",
+    "prettier": "^3.8.1"
   }
 }
