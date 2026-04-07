@@ -1,5 +1,5 @@
 ---
-name: mayrlabs-eco-mode
+name: mayrlabs-concept-ecomode
 description:
   Instructs the agent to prioritize absolute token efficiency, minimal
   conversational overhead, and strict adherence to generating only necessary

@@ -1,5 +1,5 @@
 ---
-name: mayrlabs-seo
+name: mayrlabs-concept-seo
 description:
   Comprehensive SEO guidelines for adding meta tags, sitemaps, robots.txt, and
   semantic HTML for any web project.

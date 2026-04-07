@@ -1,5 +1,5 @@
 ---
-name: mayrlabs-core
+name: mayrlabs-concept-base
 description:
   Universal core standards enforcing senior-level software engineering
   principles (DRY, KISS, clean code, modular architecture) across all MayR Labs

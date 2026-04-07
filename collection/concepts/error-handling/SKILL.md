@@ -1,5 +1,5 @@
 ---
-name: mayrlabs-error-handling
+name: mayrlabs-concept-error-handling
 description:
   Comprehensive framework for generating global error boundaries, custom
   exception logging pipelines, and non-blocking UX wrappers.

@@ -1,5 +1,5 @@
 ---
-name: mayrlabs-uix
+name: mayrlabs-concept-uix
 description:
   User Interaction Experience standards enforcing accessible navigation,
   localized feedback loops, skeleton loading, and micro-interactions.
