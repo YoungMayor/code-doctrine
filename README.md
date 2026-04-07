@@ -1,9 +1,4 @@
-<!-- @ai: Update the README right now it is inaccurate. 1. To install users only need to do npx skills add youngmayor/code-doctrine then select the skill they want  -->
-<!-- Alternatively: `npx skills add https://github.com/youngmayor/code-doctrine --skill youngmayor-javascript` or `npx skills add youngmayor/code-doctrine --skill youngmayor-javascript` -->
-<!-- They can also go to https://skills.sh/youngmayor/code-doctrine to see details.  -->
-<!-- Basically, make this document great to read  -->
-
-# Code Doctrine Skills
+# @mayrlabs/skills
 
 A comprehensive, modular collection of senior-level agent skills (plugins) for scaffolding code and enforcing strict architectural standards across languages and frameworks.
 
@@ -17,13 +12,30 @@ By making these skills available to your AI assistant, it will inherently know p
 
 You can install these skills into your project using the standard `skills` CLI toolkit.
 
-To install a specific collection of skills from this repository:
+### Interactive Installation
+
+The easiest way to install is via the interactive CLI. Run the following command and select the skill you wish to add:
 
 ```bash
-npx skills add youngmayor/code-doctrine/collection/<category>
+npx skills add MayR-Labs/skills
 ```
 
-_(Note: The exact installation commands will depend on your specific agent runner or CLI registry manager)._
+### Direct Installation
+
+Alternatively, you can install a specific skill directly using its skill identifier:
+
+```bash
+npx skills add MayR-Labs/skills --skill <skill-name>
+# Example: npx skills add MayR-Labs/skills --skill mayrlabs-javascript
+```
+
+Or via the full GitHub URL:
+
+```bash
+npx skills add https://github.com/MayR-Labs/skills --skill <skill-name>
+```
+
+> **Note:** Head over to [skills.sh/MayR-Labs/skills](https://skills.sh/MayR-Labs/skills) to explore the full catalog and see detailed metrics for all available skills.
 
 ## 🏗 Directory Structure
 
