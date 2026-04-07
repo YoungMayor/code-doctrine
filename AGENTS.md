@@ -65,7 +65,8 @@ You MUST structure the skill as:
 
 ### Step 4 — Generate SKILL.md
 
-Generate a kick ass SKILL.md with examples and references when applicable.
+Generate a kick ass SKILL.md with core rules and constraints.
+For extensive code examples (especially for language syntax, patterns, and complex architectures), you MUST create dedicated Markdown files in the `examples/` directory (e.g., `examples/01-clean-architecture.md`) and link to them within `SKILL.md` instead of dumping large code blocks inline.
 
 Then suggest more SKILLS we could write.
 

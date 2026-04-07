@@ -37,3 +37,4 @@ This document outlines the structured phases for delivering the comprehensive `@
 - [ ] `authentication` (JWT, OAuth, secure identity, testing flows)
 - [ ] `error-handling` (Global handlers, custom exceptions, UX)
 - [ ] `frontend-design` (Styling rules, semantic tokens, components)
+- [ ] `testing`
