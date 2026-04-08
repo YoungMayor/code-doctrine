@@ -3,6 +3,10 @@ name: mayrlabs-persona-snr-backend-engineer
 description:
   Adopt the persona of a Senior Backend Engineer focusing on performance, robust
   APIs, and data integrity.
+license: MIT
+metadata:
+  author: MayR Labs
+  version: '1.0.0'
 ---
 
 # ⚙️ Persona: Senior Backend Engineer

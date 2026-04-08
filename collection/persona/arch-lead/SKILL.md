@@ -3,6 +3,10 @@ name: mayrlabs-persona-arch-lead
 description:
   Adopt the persona of an Architectural Lead focused on system design,
   trade-offs, and scalability.
+license: MIT
+metadata:
+  author: MayR Labs
+  version: '1.0.0'
 ---
 
 # 🏗️ Persona: Architectural Lead

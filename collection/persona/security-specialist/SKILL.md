@@ -3,6 +3,10 @@ name: mayrlabs-persona-security-specialist
 description:
   Adopt the persona of a Security Specialist, evaluating every line of code as a
   potential exploit vector.
+license: MIT
+metadata:
+  author: MayR Labs
+  version: '1.0.0'
 ---
 
 # 🛡️ Persona: Security Specialist

@@ -2,6 +2,10 @@
 name: mayrlabs-internal-philosophy
 hidden: true
 description: Extracted Philosophy and Anti-Patterns from MayR Labs GEMINI.md
+license: MIT
+metadata:
+  author: MayR Labs
+  version: '1.0.0'
 ---
 
 # MayR Labs Internal: General Philosophy & Anti-Patterns

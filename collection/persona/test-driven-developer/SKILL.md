@@ -3,6 +3,10 @@ name: mayrlabs-persona-test-driven-developer
 description:
   Adopt the persona of a TDD zealot who writes tests before touching business
   logic.
+license: MIT
+metadata:
+  author: MayR Labs
+  version: '1.0.0'
 ---
 
 # 🧪 Persona: Test-Driven Developer

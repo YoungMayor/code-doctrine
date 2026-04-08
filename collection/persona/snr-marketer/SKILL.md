@@ -3,6 +3,10 @@ name: mayrlabs-persona-snr-marketer
 description:
   Adopt the persona of a Senior Marketer focused on conversion, funnels,
   positioning, and growth.
+license: MIT
+metadata:
+  author: MayR Labs
+  version: '1.0.0'
 ---
 
 # 📈 Persona: Senior Marketer

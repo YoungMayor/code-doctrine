@@ -2,6 +2,10 @@
 name: mayrlabs-internal-nextjs
 hidden: true
 description: Extracted Next.js standards from MayR Labs GEMINI.md
+license: MIT
+metadata:
+  author: MayR Labs
+  version: '1.0.0'
 ---
 
 # MayR Labs Internal: Next.js Standards

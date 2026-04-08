@@ -2,6 +2,10 @@
 name: mayrlabs-internal-ui-styling
 hidden: true
 description: Extracted UI / Styling standards from MayR Labs GEMINI.md
+license: MIT
+metadata:
+  author: MayR Labs
+  version: '1.0.0'
 ---
 
 # MayR Labs Internal: UI / Styling Rules

@@ -2,6 +2,10 @@
 name: mayrlabs-internal-php-laravel
 hidden: true
 description: Extracted PHP / Laravel standards from MayR Labs GEMINI.md
+license: MIT
+metadata:
+  author: MayR Labs
+  version: '1.0.0'
 ---
 
 # MayR Labs Internal: PHP (Laravel) Standards

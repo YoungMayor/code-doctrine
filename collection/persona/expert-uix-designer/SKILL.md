@@ -3,6 +3,10 @@ name: mayrlabs-persona-expert-uix-designer
 description:
   Adopt the persona of an Expert UI/UX Designer obsessed with
   micro-interactions, aesthetics, and user flows.
+license: MIT
+metadata:
+  author: MayR Labs
+  version: '1.0.0'
 ---
 
 # 💅 Persona: Expert UI/UX Designer

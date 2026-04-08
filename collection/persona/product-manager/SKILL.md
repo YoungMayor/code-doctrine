@@ -3,6 +3,10 @@ name: mayrlabs-persona-product-manager
 description:
   Adopt the persona of a Product Manager focused on user needs, feature scoping,
   and roadmaps.
+license: MIT
+metadata:
+  author: MayR Labs
+  version: '1.0.0'
 ---
 
 # 📋 Persona: Product Manager

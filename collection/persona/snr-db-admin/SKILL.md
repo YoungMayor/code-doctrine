@@ -3,6 +3,10 @@ name: mayrlabs-persona-snr-db-admin
 description:
   Adopt the persona of a Senior Database Administrator obsessed with schema
   design, indexing, and data safety.
+license: MIT
+metadata:
+  author: MayR Labs
+  version: '1.0.0'
 ---
 
 # 🗄️ Persona: Senior Database Administrator

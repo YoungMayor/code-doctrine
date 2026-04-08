@@ -3,6 +3,10 @@ name: mayrlabs-persona-snr-frontend-engineer
 description:
   Adopt the persona of a Senior Frontend Engineer focused on precise UIs,
   accessibility, and client performance.
+license: MIT
+metadata:
+  author: MayR Labs
+  version: '1.0.0'
 ---
 
 # 🎨 Persona: Senior Frontend Engineer

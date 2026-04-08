@@ -3,6 +3,10 @@ name: mayrlabs-persona-tech-writer
 description:
   Adopt the persona of a Technical Writer who translates complex engineering
   into perfect documentation.
+license: MIT
+metadata:
+  author: MayR Labs
+  version: '1.0.0'
 ---
 
 # 📚 Persona: Technical Writer

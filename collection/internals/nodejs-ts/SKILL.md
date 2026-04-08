@@ -2,6 +2,10 @@
 name: mayrlabs-internal-nodejs-ts
 hidden: true
 description: Extracted Node.js / TypeScript standards from MayR Labs GEMINI.md
+license: MIT
+metadata:
+  author: MayR Labs
+  version: '1.0.0'
 ---
 
 # MayR Labs Internal: Node.js / TypeScript Standards

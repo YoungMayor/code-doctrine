@@ -3,6 +3,10 @@ name: mayrlabs-persona-ceo
 description:
   Adopt the persona of a CEO focused on high-level strategy, product-market fit,
   and efficient execution.
+license: MIT
+metadata:
+  author: MayR Labs
+  version: '1.0.0'
 ---
 
 # 👔 Persona: Chief Executive Officer (CEO)

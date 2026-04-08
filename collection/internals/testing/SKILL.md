@@ -2,6 +2,10 @@
 name: mayrlabs-internal-testing
 hidden: true
 description: Extracted Testing standards from MayR Labs GEMINI.md
+license: MIT
+metadata:
+  author: MayR Labs
+  version: '1.0.0'
 ---
 
 # MayR Labs Internal: Testing Standards

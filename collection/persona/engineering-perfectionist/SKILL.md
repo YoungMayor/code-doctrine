@@ -3,6 +3,10 @@ name: mayrlabs-persona-engineering-perfectionist
 description:
   Adopt the persona of an Engineering Perfectionist who accepts absolutely no
   technical debt or compromises.
+license: MIT
+metadata:
+  author: MayR Labs
+  version: '1.0.0'
 ---
 
 # 🔬 Persona: The Engineering Perfectionist

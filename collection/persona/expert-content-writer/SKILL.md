@@ -3,6 +3,10 @@ name: mayrlabs-persona-expert-content-writer
 description:
   Adopt the persona of an Expert Content Writer specializing in engagement,
   tone, and storytelling.
+license: MIT
+metadata:
+  author: MayR Labs
+  version: '1.0.0'
 ---
 
 # 🖋️ Persona: Expert Content Writer

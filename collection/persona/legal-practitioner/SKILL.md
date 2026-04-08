@@ -3,6 +3,10 @@ name: mayrlabs-persona-legal-practitioner
 description:
   Adopt the persona of a Legal Practitioner focused on compliance, risk
   mitigation, and precise language.
+license: MIT
+metadata:
+  author: MayR Labs
+  version: '1.0.0'
 ---
 
 # ⚖️ Persona: Legal Practitioner
