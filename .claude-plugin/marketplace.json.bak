@@ -1,184 +1,248 @@
 {
-  "name": "code-doctrine-skills",
+  "name": "@mayrlabs/skills",
   "owner": {
-    "name": "Aghogho Meyoron",
-    "email": "youngmayor.dev@gmail.com"
+    "name": "MayR Labs",
+    "email": "support@mayrlabs.com"
   },
   "metadata": {
-    "description": "",
+    "description": "Official MayR Labs AI Agent Skills Marketplace",
     "version": "1.0.0"
   },
   "plugins": [
     {
-      "name": "core",
-      "source": "./",
-      "description": "Universal core standards for projects to enforce philosophies, structure, naming, tooling, and global anti-patterns.",
-      "version": "0.1.0",
-      "repository": "https://github.com/MayR-Labs/skills.git",
-      "license": "MIT",
-      "author": {
-        "name": "Aghogho Meyoron",
-        "email": "youngmayor.dev@gmail.com"
-      },
-      "keywords": [
-        "base",
-        "standards",
-        "architecture"
-      ],
-      "category": "fundamentals",
-      "skills": [
-        "./collection/core/base"
-      ]
-    },
-    {
       "name": "concepts",
       "source": "./",
-      "description": "High-level behavioral concepts and prompting styles for AI agents.",
-      "version": "0.1.0",
+      "description": "Universal core standards and philosophical approaches enforcing senior-level software engineering.",
+      "version": "1.0.0",
       "repository": "https://github.com/MayR-Labs/skills.git",
       "license": "MIT",
       "author": {
-        "name": "Aghogho Meyoron",
-        "email": "youngmayor.dev@gmail.com"
+        "name": "MayR Labs",
+        "email": "support@mayrlabs.com"
       },
+      "keywords": [
+        "standards",
+        "best-practices",
+        "concepts"
+      ],
       "category": "concepts",
       "skills": [
-        "./collection/concepts/eco-mode",
-        "./collection/concepts/seo"
-      ]
-    },
-    {
-      "name": "languages",
-      "source": "./",
-      "description": "Senior-level code standards and architectural conventions for programming languages.",
-      "version": "0.1.0",
-      "repository": "https://github.com/MayR-Labs/skills.git",
-      "license": "MIT",
-      "author": {
-        "name": "Aghogho Meyoron",
-        "email": "youngmayor.dev@gmail.com"
-      },
-      "category": "languages",
-      "skills": [
-        "./collection/languages/javascript",
-        "./collection/languages/typescript",
-        "./collection/languages/php",
-        "./collection/languages/go",
-        "./collection/languages/python",
-        "./collection/languages/dart",
-        "./collection/languages/rust",
-        "./collection/languages/csharp"
-      ]
-    },
-    {
-      "name": "security",
-      "source": "./",
-      "version": "0.1.0",
-      "repository": "https://github.com/MayR-Labs/skills.git",
-      "license": "MIT",
-      "author": {
-        "name": "Aghogho Meyoron",
-        "email": "youngmayor.dev@gmail.com"
-      },
-      "category": "security",
-      "skills": [
-        "./collection/security/general",
-        "./collection/security/backend",
-        "./collection/security/frontend",
-        "./collection/security/mobile"
+        "./collection/concepts/base",
+        "./collection/concepts/ecomode",
+        "./collection/concepts/error-handling",
+        "./collection/concepts/seo",
+        "./collection/concepts/uix"
       ]
     },
     {
       "name": "copywriting",
       "source": "./",
-      "version": "0.1.0",
+      "description": "Guidelines for compelling, context-aware content generation across domains.",
+      "version": "1.0.0",
       "repository": "https://github.com/MayR-Labs/skills.git",
       "license": "MIT",
       "author": {
-        "name": "Aghogho Meyoron",
-        "email": "youngmayor.dev@gmail.com"
+        "name": "MayR Labs",
+        "email": "support@mayrlabs.com"
       },
+      "keywords": [
+        "copywriting",
+        "content"
+      ],
       "category": "copywriting",
       "skills": [
-        "./collection/copywriting/general",
+        "./collection/copywriting/content",
         "./collection/copywriting/engineering",
+        "./collection/copywriting/general",
         "./collection/copywriting/legal",
-        "./collection/copywriting/product",
         "./collection/copywriting/marketing",
-        "./collection/copywriting/content"
+        "./collection/copywriting/product"
       ]
     },
     {
       "name": "frameworks",
       "source": "./",
-      "version": "0.1.0",
+      "description": "Expert-level guidance and constraints for specific frontend and backend web frameworks.",
+      "version": "1.0.0",
       "repository": "https://github.com/MayR-Labs/skills.git",
       "license": "MIT",
       "author": {
-        "name": "Aghogho Meyoron",
-        "email": "youngmayor.dev@gmail.com"
+        "name": "MayR Labs",
+        "email": "support@mayrlabs.com"
       },
+      "keywords": [
+        "frameworks",
+        "web",
+        "architecture"
+      ],
       "category": "frameworks",
       "skills": [
-        "./collection/frameworks/react",
-        "./collection/frameworks/nextjs",
-        "./collection/frameworks/laravel",
         "./collection/frameworks/django",
-        "./collection/frameworks/flutter",
         "./collection/frameworks/flask",
+        "./collection/frameworks/flutter",
+        "./collection/frameworks/laravel",
         "./collection/frameworks/nestjs",
+        "./collection/frameworks/nextjs",
         "./collection/frameworks/nuxtjs",
+        "./collection/frameworks/react",
         "./collection/frameworks/vue"
+      ]
+    },
+    {
+      "name": "internals",
+      "source": "./",
+      "description": "Hidden system-level prompts used internally by MayR Labs for validation and enforcement.",
+      "version": "1.0.0",
+      "repository": "https://github.com/MayR-Labs/skills.git",
+      "license": "MIT",
+      "author": {
+        "name": "MayR Labs",
+        "email": "support@mayrlabs.com"
+      },
+      "keywords": [
+        "internal",
+        "ecosystem"
+      ],
+      "category": "internals",
+      "skills": [
+        "./collection/internals/nextjs",
+        "./collection/internals/nodejs-ts",
+        "./collection/internals/philosophy",
+        "./collection/internals/php-laravel",
+        "./collection/internals/security",
+        "./collection/internals/testing",
+        "./collection/internals/ui-styling"
+      ]
+    },
+    {
+      "name": "languages",
+      "source": "./",
+      "description": "Language-specific deep dives for advanced, secure, and performant usage.",
+      "version": "1.0.0",
+      "repository": "https://github.com/MayR-Labs/skills.git",
+      "license": "MIT",
+      "author": {
+        "name": "MayR Labs",
+        "email": "support@mayrlabs.com"
+      },
+      "keywords": [
+        "languages",
+        "programming"
+      ],
+      "category": "languages",
+      "skills": [
+        "./collection/languages/csharp",
+        "./collection/languages/dart",
+        "./collection/languages/go",
+        "./collection/languages/javascript",
+        "./collection/languages/php",
+        "./collection/languages/python",
+        "./collection/languages/rust",
+        "./collection/languages/typescript"
+      ]
+    },
+    {
+      "name": "persona",
+      "source": "./",
+      "description": "Emulated senior-level personalities for specialized insights and problem solving.",
+      "version": "1.0.0",
+      "repository": "https://github.com/MayR-Labs/skills.git",
+      "license": "MIT",
+      "author": {
+        "name": "MayR Labs",
+        "email": "support@mayrlabs.com"
+      },
+      "keywords": [
+        "persona",
+        "roleplay",
+        "expert"
+      ],
+      "category": "persona",
+      "skills": [
+        "./collection/persona/arch-lead",
+        "./collection/persona/ceo",
+        "./collection/persona/engineering-perfectionist",
+        "./collection/persona/expert-content-writer",
+        "./collection/persona/expert-uix-designer",
+        "./collection/persona/legal-practitioner",
+        "./collection/persona/product-manager",
+        "./collection/persona/security-specialist",
+        "./collection/persona/snr-backend-engineer",
+        "./collection/persona/snr-db-admin",
+        "./collection/persona/snr-frontend-engineer",
+        "./collection/persona/snr-marketer",
+        "./collection/persona/snr-software-engineer",
+        "./collection/persona/tech-writer",
+        "./collection/persona/test-driven-developer"
+      ]
+    },
+    {
+      "name": "security",
+      "source": "./",
+      "description": "Specialized defensive programming constraints across various disciplines.",
+      "version": "1.0.0",
+      "repository": "https://github.com/MayR-Labs/skills.git",
+      "license": "MIT",
+      "author": {
+        "name": "MayR Labs",
+        "email": "support@mayrlabs.com"
+      },
+      "keywords": [
+        "security",
+        "defensive"
+      ],
+      "category": "security",
+      "skills": [
+        "./collection/security/backend",
+        "./collection/security/frontend",
+        "./collection/security/general",
+        "./collection/security/mobile"
+      ]
+    },
+    {
+      "name": "system-design",
+      "source": "./",
+      "description": "High-level architectural templates and scalable system design skills.",
+      "version": "1.0.0",
+      "repository": "https://github.com/MayR-Labs/skills.git",
+      "license": "MIT",
+      "author": {
+        "name": "MayR Labs",
+        "email": "support@mayrlabs.com"
+      },
+      "keywords": [
+        "system-design",
+        "architecture"
+      ],
+      "category": "architecture",
+      "skills": [
+        "./collection/system-design/api",
+        "./collection/system-design/frontend"
       ]
     },
     {
       "name": "tools",
       "source": "./",
-      "version": "0.1.0",
+      "description": "Strict configurations and guidelines for tooling, linters, and formatters.",
+      "version": "1.0.0",
       "repository": "https://github.com/MayR-Labs/skills.git",
       "license": "MIT",
       "author": {
-        "name": "Aghogho Meyoron",
-        "email": "youngmayor.dev@gmail.com"
+        "name": "MayR Labs",
+        "email": "support@mayrlabs.com"
       },
+      "keywords": [
+        "tools",
+        "linting",
+        "formatting"
+      ],
       "category": "tools",
       "skills": [
-        "./collection/tools/tailwindcss",
         "./collection/tools/formatters",
         "./collection/tools/linters",
+        "./collection/tools/tailwindcss",
         "./collection/tools/testing"
       ]
-    },
-    {
-      "name": "recipes",
-      "source": "./",
-      "version": "0.1.0",
-      "repository": "https://github.com/MayR-Labs/skills.git",
-      "license": "MIT",
-      "author": {
-        "name": "Aghogho Meyoron",
-        "email": "youngmayor.dev@gmail.com"
-      },
-      "category": "recipes",
-      "skills": [
-        "./collection/recipes/api-design",
-        "./collection/recipes/frontend-design",
-        "./collection/recipes/uix",
-        "./collection/recipes/error-handling"
-      ]
-    },
-    {
-      "name": "cloud",
-      "source": "./",
-      "version": "0.1.0",
-      "repository": "https://github.com/MayR-Labs/skills.git",
-      "license": "MIT",
-      "author": {
-        "name": "Aghogho Meyoron",
-        "email": "youngmayor.dev@gmail.com"
-      },
-      "category": "cloud",
-      "skills": []
     }
   ]
 }
